@@ -1,0 +1,9 @@
+## Jupyter
+.ipynb_checkpoints
+__pycache__
+*.pyc
+.nbgrader.log
+
+## OS X
+.DS_Store
+
