@@ -34,4 +34,4 @@ permission, which we gratefully acknowledge.
 [mrc]: http://www.cs.cornell.edu/~clarkson/
 [mru]: https://people.orie.cornell.edu/mru8/
 [tutorial]: https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/
-[zip]: archive/master.zip
+[zip]: https://github.com/datascienceforall/dsfa-2018sp-public/archive/master.zip
